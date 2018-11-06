@@ -1,0 +1,66 @@
+body {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1em;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+.buttons {
+    background-color: #FAF0E6;
+    height: 350px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.animal {
+    background-color: lightblue;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.captured {
+    background-color: grey;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.sanctuary {
+    background-color: #308014;
+    border: 5px dashed #5C4033;
+    height: 300px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+button {
+    width: 80px;
+}
+
+.placeholder {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: pink;
+    border: 3px solid orange;
+}
+
+.placeholderCaptured {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: black;
+    border: 3px solid white;
+}
+
+
+.bigAnimal {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: pink;
+    border: 5px solid orange;
+}
