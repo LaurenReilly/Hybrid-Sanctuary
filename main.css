@@ -23,15 +23,16 @@ h1 {
 
 .captured {
     background-color: grey;
-    height: 350px;
-    border: 2px solid white;
+    height: 250px;
+    border: 5px dashed black;
     border-radius: 5px;
+    overflow: hidden;
 }
 
 .sanctuary {
     background-color: #308014;
     border: 5px dashed #5C4033;
-    height: 300px;
+    height: 250px;
     border-radius: 5px;
     overflow: hidden;
 }
@@ -64,3 +65,5 @@ button {
     background-color: pink;
     border: 5px solid orange;
 }
+
+/* try putting the captured animals on the bottom next to the rescued animals. Put game timer in top right corner of screen, name under animal, progress bars on left/right */
